@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  #  Autonomous E-Commerce Operating System
+  Autonomous E-Commerce Operating System
 </p>
 
 <p align="center">
