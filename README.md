@@ -63,47 +63,18 @@ SPA OmniCore OS, statik veri raporlaması yapan geleneksel panelleri devre dış
 ## 🌟 Çekirdek Mimari ve Ajan Yapıları
 <img width="1536" height="1024" alt="ChatGPT Image 19 May 2026 18_08_57" src="https://github.com/user-attachments/assets/534a5cd4-14b0-40b0-aba9-be75e6b3e22f" />
 
-#### ✨ Özellikler
+## 🌟 Yetenekler ve Özellikler
 
-##### 🧠 AI / Otomasyon
-- **Akıl Hocası** — Gemini Function Calling tabanlı otonom asistan; onayınızla DB üzerinde değişiklik yapar
-- **Gemini Vision** ürün yükleme — Fotoğraf yükle, AI başlık/kategori/fiyat/öznitelikleri doldursun
-- **9-key havuzu** + 429 cooldown rotation (Google AI Studio free-tier desteği)
-- **Hybrid SLM/Cloud Router** — llama.cpp + Gemini arasında latency/confidence/maliyet bazlı yönlendirme
+SPA OmniCore OS, e-ticaret süreçlerini tek bir merkezden yönetmeniz için kapsamlı bir modüler yapı sunar:
 
-##### 📊 Endüstri Mühendisliği Motorları
-- **Wagner-Whitin** Dynamic Programming lot-sizing (brute-force ile doğrulanmış optimal)
-- **TOPSIS** çoklu-kriter taşıyıcı seçimi (5 kriter, vektör normalizasyon)
-- **Parametric VaR + Expected Shortfall** Brownian motion bazlı (Acklam inverse-CDF, 6-digit precision)
-- **Sharpe-ROT portföy** optimizasyonu (inverse-variance weights)
-- **Heuristic Miner** dependency D_AB + Damerau-Levenshtein süreç sapma analizi
-- **Pareto/ABC ranking** önem skoru bazlı ürün sıralama
-
-##### 🛡️ IP / Compliance
-- **pHash 64-bit DCT** + Hamming distance görsel benzerlik kopyacı tespiti
-- **TF-IDF cosine** marka adı eşleşme (typo-tolerant Damerau-Levenshtein)
-- **Andon** IoT sensör + BOM compliance kararı (cold-chain / shock / humidity)
-
-##### 🛒 Marketplace Entegrasyonu
-- **Trendyol** canlı API: ürün, sipariş, hakediş, iade, yorum, soru senkronizasyonu
-- **Hepsiburada / Amazon / N11 / Etsy** credentials desteği (genişletilebilir altyapı)
-- 556 / 401 / 403 hatalarına graceful handle
-- Çoklu endpoint probe ile bağlantı doğrulama
-
-##### 💼 İş Modülleri
-- **ADR** (Alternative Dispute Resolution) — REFUND/REPLACE/PARTIAL/REJECT/ESCALATE/GOODWILL karar matrisi, beklenen-maliyet minimizasyonu
-- **Tedarikçi Sağlık Karnesi** — zamanlılık + defekt + lead-time skorlama
-- **What-If Heatmap** — fiyat × reklam-bütçe profit simülasyonu
-- **Akıllı Panel (Operations Center)** — tüm motorları tek ekranda
-
-##### 🎨 UX
-- **Dark glassmorphism tema** — Discord-vari sıkı sidebar, Inter font
-- **Akıcı animasyonlar** — hover fade, count-up, slide-in
-- **Etkileşimli grafikler** — Matplotlib hover tooltips
-- **TR + EN** çoklu dil, **TRY + USD** canlı kur dönüşümü
-- **Excel-vari tablolar** — sıralanabilir, filtrelenebilir, CSV export
-
----
+| Kategori | Temel Yetenekler |
+| :--- | :--- |
+| **🤖 AI & Otomasyon** | Gemini Function Calling (Akıl Hocası), Vision tabanlı ürün yükleme, Hybrid SLM/Cloud Router, 9-key API rotasyonu. |
+| **⚙️ Endüstri Müh.** | Wagner-Whitin (lot-sizing), TOPSIS (kargo seçimi), Parametric VaR (risk analizi), Pareto/ABC ranking, Heuristic Miner. |
+| **🛡️ IP & Compliance** | pHash (kopya tespit), Damerau-Levenshtein (typo-tolerant eşleşme), Andon (IoT/BOM uyumluluk). |
+| **🛒 Marketplace** | Trendyol (Canlı API), Hepsiburada/Amazon/N11/Etsy genişletilebilir entegrasyon, hata toleranslı retry mekanizması. |
+| **💼 İş Modülleri** | ADR (Anlaşmazlık Çözümü), Tedarikçi Sağlık Karnesi, What-If profit simülasyonu, birleşik operasyonel dashboard. |
+| **🎨 UX / Arayüz** | Dark glassmorphism tema, etkileşimli Matplotlib grafikler, çoklu dil (TR/EN) ve kur desteği (TRY/USD). |
 
 
 ### 🤖 ReAct Agent — Akıl Hocası & Human-in-the-Loop
