@@ -134,7 +134,7 @@ python -m pytest tests/ -v
 
 3.  **Gelişmiş Talep Tahmini:** Moving Average ve Doğrusal Trend modellerinin, derin öğrenme tabanlı LSTM (Long Short-Term Memory) ağlarıyla hibrit hale getirilmesi.
 
-<img width="2752" height="1536" alt="1 (1)" src="https://github.com/user-attachments/assets/1dfa75fb-d50d-4d25-ac46-6c50bf3a7b78" />
+<img width="2752" height="1536" alt="1 (5)" src="https://github.com/user-attachments/assets/2aa56fe8-0317-416c-9b73-54747d8c3944" />
 
 ---
 ## 👥 TEAM EXCEL
