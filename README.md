@@ -15,6 +15,15 @@ SPA OmniCore OS
 
 </p>
 
+
+## 🎬 Proje Tanıtım Videosu
+Projeyi ve otonom karar mekanizmalarını 1 dakikada izleyin:
+
+[![SPA OmniCore OS Tanıtım Videosu](https://img.youtube.com/vi/O-n5ni7VQzQ/0.jpg)](https://youtu.be/O-n5ni7VQzQ)
+
+*(Resmin üzerine tıklayarak videoyu izleyebilirsiniz.)*
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6907fe7-2969-4dec-b344-4588bcdd486b" width="1000">
 </p>
