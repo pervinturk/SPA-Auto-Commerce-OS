@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 SPA OmniCore OS: Autonomous E-Commerce Operating System
 
 <img width="2400" height="1350" alt="1_SPA-Center" src="https://github.com/user-attachments/assets/d6907fe7-2969-4dec-b344-4588bcdd486b" />
@@ -122,10 +123,96 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
 Sistemdeki optimizasyon çözücülerinin matematiksel doğruluğu, `tests/` klasöründeki 9 fazlı asenkron test senaryolarıyla stres testine tabi tutulmuştur. Testleri çalıştırmak için:
 ```bash
 python -m pytest tests/ -v
+=======
+# SPA Center — Akıllı Satıcı Paneli
+
+> AI destekli, çoklu-pazar yeri (Trendyol, Hepsiburada, Amazon, N11, Etsy) satıcı yönetim sistemi. Endüstri Mühendisliği temelli envanter optimizasyonu, finansal risk analizi, IP koruma, otonom AI ürün yükleme.
+
+**Masaüstü uygulaması** — CustomTkinter ile yazılmış, PyInstaller ile `.exe`'ye derlenebilir. Tüm hassas veriler (API anahtarları, müşteri bilgileri) **lokal SQLite + XOR şifreleme** ile bilgisayarınızda kalır.
+
+---
+
+## ✨ Özellikler
+
+### 🧠 AI / Otomasyon
+- **Akıl Hocası** — Gemini Function Calling tabanlı otonom asistan; onayınızla DB üzerinde değişiklik yapar
+- **Gemini Vision** ürün yükleme — Fotoğraf yükle, AI başlık/kategori/fiyat/öznitelikleri doldursun
+- **9-key havuzu** + 429 cooldown rotation (Google AI Studio free-tier desteği)
+- **Hybrid SLM/Cloud Router** — llama.cpp + Gemini arasında latency/confidence/maliyet bazlı yönlendirme
+
+### 📊 Endüstri Mühendisliği Motorları
+- **Wagner-Whitin** Dynamic Programming lot-sizing (brute-force ile doğrulanmış optimal)
+- **TOPSIS** çoklu-kriter taşıyıcı seçimi (5 kriter, vektör normalizasyon)
+- **Parametric VaR + Expected Shortfall** Brownian motion bazlı (Acklam inverse-CDF, 6-digit precision)
+- **Sharpe-ROT portföy** optimizasyonu (inverse-variance weights)
+- **Heuristic Miner** dependency D_AB + Damerau-Levenshtein süreç sapma analizi
+- **Pareto/ABC ranking** önem skoru bazlı ürün sıralama
+
+### 🛡️ IP / Compliance
+- **pHash 64-bit DCT** + Hamming distance görsel benzerlik kopyacı tespiti
+- **TF-IDF cosine** marka adı eşleşme (typo-tolerant Damerau-Levenshtein)
+- **Andon** IoT sensör + BOM compliance kararı (cold-chain / shock / humidity)
+
+### 🛒 Marketplace Entegrasyonu
+- **Trendyol** canlı API: ürün, sipariş, hakediş, iade, yorum, soru senkronizasyonu
+- **Hepsiburada / Amazon / N11 / Etsy** credentials desteği (genişletilebilir altyapı)
+- 556 / 401 / 403 hatalarına graceful handle
+- Çoklu endpoint probe ile bağlantı doğrulama
+
+### 💼 İş Modülleri
+- **ADR** (Alternative Dispute Resolution) — REFUND/REPLACE/PARTIAL/REJECT/ESCALATE/GOODWILL karar matrisi, beklenen-maliyet minimizasyonu
+- **Tedarikçi Sağlık Karnesi** — zamanlılık + defekt + lead-time skorlama
+- **What-If Heatmap** — fiyat × reklam-bütçe profit simülasyonu
+- **Akıllı Panel (Operations Center)** — tüm motorları tek ekranda
+
+### 🎨 UX
+- **Dark glassmorphism tema** — Discord-vari sıkı sidebar, Inter font
+- **Akıcı animasyonlar** — hover fade, count-up, slide-in
+- **Etkileşimli grafikler** — Matplotlib hover tooltips
+- **TR + EN** çoklu dil, **TRY + USD** canlı kur dönüşümü
+- **Excel-vari tablolar** — sıralanabilir, filtrelenebilir, CSV export
+
+---
+
+## 🚀 Kurulum
+
+### Gereksinimler
+- Python 3.10+ (test edildi: 3.10, 3.14)
+- Windows 10/11 (Linux/macOS uyumlu ama PyInstaller `.exe` Windows'a özel)
+
+### Adımlar
+```bash
+git clone https://github.com/<kullaniciadi>/spa-center.git
+cd spa-center
+python -m venv .venv
+.venv\Scripts\activate          # Windows
+# source .venv/bin/activate     # Linux/macOS
+pip install -r requirements.txt
+```
+
+### Yapılandırma
+1. `.env.example` dosyasını `.env` olarak kopyalayın
+2. **Gemini API Key** alın → https://aistudio.google.com/app/apikey (ücretsiz)
+3. **Trendyol API Key** alın → Trendyol Partner > Entegrasyon Bilgilerim
+4. `.env` içine yapıştırın (virgülle ayırarak birden çok Gemini key girebilirsiniz — rotation için)
+
+Veya uygulamayı çalıştırıp **Profil > 🔌 Pazar Yeri Entegrasyonu** sekmesinden GUI ile girebilirsiniz (XOR-şifreli local SQLite'a kaydedilir).
+
+### Çalıştırma
+```bash
+python main.py
+```
+
+### .exe Derleme
+```bash
+python build.py
+# dist/SPA_Center.exe oluşur
+>>>>>>> 492b1d1 (Initial commit - SPA Center)
 ```
 
 ---
 
+<<<<<<< HEAD
 ## 🚀 Yol Haritası ve Ölçeklenebilirlik (Scalability)
 
 1.  **Cloud-Native SaaS Dönüşümü:** Mevcut asenkron çekirdeğin Dockerize edilerek PostgreSQL mimarisiyle web tabanlı çoklu satıcı (Multi-tenant) yapısına taşınması.
@@ -144,3 +231,94 @@ python -m pytest tests/ -v
 ---
 
 *BTK Akademi × Google × Girvak — Hackathon 2026*
+=======
+## 🗂️ Proje Yapısı
+
+```
+spa-center/
+├── main.py                    # Uygulama giriş noktası
+├── build.py                   # PyInstaller derleme scripti
+├── requirements.txt           # Python bağımlılıkları
+├── .env.example               # Ortam değişkenleri şablonu
+│
+├── core/                      # Çekirdek mimari
+│   ├── database.py            # SQLite sync layer
+│   ├── database_async.py      # SQLAlchemy 2.0 async (OmniCore)
+│   ├── schemas.py             # Pydantic v2 contracts
+│   ├── credentials.py         # XOR-şifreli multi-platform creds
+│   ├── data_mode.py           # LIVE/MOCK mode + inventory clear
+│   ├── api_key_pool.py        # 9-key Gemini rotation
+│   ├── hybrid_gateway.py      # SLM/Cloud adaptive router
+│   ├── ai_engine.py           # Akıl Hocası agent (function calling)
+│   ├── ai_vision_agent.py     # Gemini Vision + Pydantic + RAG
+│   ├── trendyol_api.py        # Trendyol REST client
+│   ├── trendyol_sync.py       # Toplu Trendyol senkronizasyonu
+│   ├── analytics.py           # Pareto, MRP, supplier health, what-if
+│   └── mock_data.py           # Demo/fallback data
+│
+├── engines/                   # Saf matematik (endüstri müh.)
+│   ├── ww_dp_solver.py        # Wagner-Whitin DP + Silver-Meal + LFL + EOQ
+│   ├── financial_engineering.py  # ROT, Sharpe-ROT, VaR, ES, portfolio
+│   └── ip_shield.py           # pHash + TF-IDF + Damerau-Levenshtein
+│
+├── services/                  # İş servisleri
+│   ├── shipment_auditor.py    # IoT sensor + BOM + Andon
+│   ├── adr_engine.py          # ADR karar matrisi
+│   ├── process_mining.py      # Heuristic Miner D_AB
+│   └── carrier_selection.py   # TOPSIS
+│
+└── ui/                        # CustomTkinter masaüstü UI
+    ├── main_window.py
+    ├── theme.py
+    ├── widgets.py             # KPICard, Pill, SortableTable, ChartHover, ...
+    ├── animations.py          # fade_color, count_up, slide_in
+    ├── lock_screen.py         # Integration lock card
+    ├── credentials_dialog.py  # Per-platform API creds form
+    ├── omnicore_dashboard.py  # Akıllı Panel (tüm motorlar)
+    ├── smart_add.py           # Trendyol Smart Add (Vision)
+    ├── agent_widget.py        # Floating Akıl Hocası FAB
+    └── pages/
+        ├── dashboard.py
+        ├── inventory.py
+        ├── orders.py
+        ├── finance.py
+        ├── advisor.py
+        ├── marketplaces.py
+        └── profile.py
+```
+
+---
+
+## 🔐 Güvenlik
+
+- API anahtarları **asla** repo'ya commit edilmez (`.gitignore` korumalı)
+- Tüm credentials lokal `eaas.db` içinde **XOR-encoded** + base64 wrapped
+- Hiçbir veri 3. parti sunucuya gitmez — sadece Gemini ve marketplace API'leri (kendi keylerinizle)
+- Pre-commit: secret scanning için [`gitleaks`](https://github.com/zricethezav/gitleaks) önerilir
+
+---
+
+## 📜 Lisans
+
+MIT — [LICENSE](LICENSE) dosyasına bakın.
+
+---
+
+## 🤝 Katkı
+
+Pull request'lere açığız. Lütfen:
+1. Feature branch açın: `feat/yeni-ozellik`
+2. Test ekleyin (özellikle `engines/` ve `services/` için)
+3. `python -m py_compile $(find . -name "*.py")` ile syntax kontrolü
+4. PR açın
+
+---
+
+## 🙏 Teşekkürler
+
+- **Wagner & Whitin (1958)** — Dynamic lot-sizing optimal solution
+- **Acklam (2003)** — Inverse normal CDF rational approximation
+- **Trendyol** — Marketplace API ekosistemi
+- **Google AI Studio** — Gemini API free-tier
+- **CustomTkinter** topluluğu — Modern Tk teması
+>>>>>>> 492b1d1 (Initial commit - SPA Center)

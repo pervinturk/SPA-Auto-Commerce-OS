@@ -1,0 +1,35 @@
+BG_DARK    = "#0E1117"
+BG_PANEL   = "#161B25"
+BG_CARD    = "#1F2532"
+BG_HOVER   = "#2A3142"
+ACCENT     = "#10B981"
+ACCENT_H   = "#059669"
+ACCENT_DK  = "#064E3B"
+TEXT_PRI   = "#F8FAFC"
+TEXT_SEC   = "#A3ADBE"
+TEXT_MUT   = "#6B7588"
+DANGER     = "#EF4444"
+DANGER_BG  = "#3B0A0A"
+WARNING    = "#F59E0B"
+WARNING_BG = "#3B1F06"
+INFO       = "#60A5FA"
+INFO_BG    = "#0B1E3B"
+SUCCESS    = "#22C55E"
+BORDER     = "#2A3142"
+GRID       = "#1B2540"
+
+SIDEBAR_W  = 240
+
+FONT_FAMILY = "Segoe UI"
+
+FONT_TITLE     = (FONT_FAMILY, 26, "bold")
+FONT_H1        = (FONT_FAMILY, 22, "bold")
+FONT_HEAD      = (FONT_FAMILY, 16, "bold")
+FONT_SUB       = (FONT_FAMILY, 14, "bold")
+FONT_BODY      = (FONT_FAMILY, 13)
+FONT_BODY_BOLD = (FONT_FAMILY, 13, "bold")
+FONT_SMALL     = (FONT_FAMILY, 12)
+FONT_SMALL_BOLD= (FONT_FAMILY, 12, "bold")
+FONT_TINY      = (FONT_FAMILY, 11)
+FONT_KPI       = (FONT_FAMILY, 26, "bold")
+FONT_MONO      = ("Consolas", 12)

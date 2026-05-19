@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,71 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Build / dist artifacts
+build/
+dist/
+*.spec
+*.exe
+
+# Environment + secrets
+.env
+.env.local
+.env.production
+*.pem
+*.key
+
+# Database files (contain user data)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+eaas.db*
+omnicore.db*
+
+# Logs
+*.log
+logs/
+
+# OS
+desktop.ini
+
+# Legacy artefacts
+.legacy/
+.staging/
+_test_phase*.py
+_fix_*.py
+_export_*.py
+
+# Internal IDE configs
+.claude/
+*.lnk
+
+# OneDrive thumbnails
+~$*
+*~
+>>>>>>> 492b1d1 (Initial commit - SPA Center)
