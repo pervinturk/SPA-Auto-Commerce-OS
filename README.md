@@ -144,6 +144,7 @@ python -m pytest tests/ -v
 ---
 
 *BTK Akademi × Google × Girvak — Hackathon 2026*
+
 =======
 ## 🗂️ Proje Yapısı
 
