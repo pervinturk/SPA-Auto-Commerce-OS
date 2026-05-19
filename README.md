@@ -86,8 +86,11 @@ Finansal kararlarda yapay zeka hatasını sıfıra indiren 3 katmanlı güvenlik
 <img width="1376" height="768" alt="1 (18)" src="https://github.com/user-attachments/assets/cffa448d-a68c-4490-b18e-38366519ff28" />
 
 ---
+## 🌱➡️🌳 Gelecek Vizyonu
+
 <img width="2400" height="1350" alt="9_Gelecek-Vizyonu-Olceklenebilirlik-ve-Surdurulebilirlik" src="https://github.com/user-attachments/assets/81a3333c-5b50-4630-baaa-0c47e48023a8" />
 ---
+
 ## 🛠 Teknoloji Yığını
 
 | Katman | Teknoloji | Neden Seçildi |
