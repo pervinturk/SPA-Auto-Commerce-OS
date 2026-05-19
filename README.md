@@ -23,6 +23,10 @@ SPA OmniCore OS
 <i>"Veriyi sadece görüntüleme çağı bitti. Karar alma ve otonom uygulama çağı başlıyor."</i>
 </p>
 
+<p align="center">
+<i>"Fabrikanın üretim bandındaki o kusursuz titizliği aldık ve e-ticareti tam anlamıyla bir "E-Ticaret 4.0 Otomasyon ve Karar Destek Sistemine" dönüştürdük."</i>
+</p>
+
 **SPA (Smart Platform Automation) OmniCore OS**, e-ticaret işletmelerinin finansal, lojistik ve operasyonel süreçlerini **Google Gemini 1.5 Flash** altyapısı ve gelişmiş **Endüstri Mühendisliği (Yöneylem Araştırması)** algoritmaları ile uçtan uca otonomlaştıran, masaüstü tabanlı kurumsal bir **Karar Destek Sistemidir (DSS)**.
 
 BTK Akademi Hackathon 2026 — **TEAM EXCEL**
