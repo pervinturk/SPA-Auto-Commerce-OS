@@ -31,7 +31,7 @@ kararları hâlâ manuel süreçlerle alıyor:
 SPA Auto-Commerce OS, statik raporlamadan **otonom aksiyona** geçişi 
 mümkün kılıyor. Sistem yalnızca analiz etmiyor — **karar alıyor ve uyguluyor.**
 
-<img width="1024" height="1536" alt="ChatGPT Image 19 May 2026 18_02_25" src="https://github.com/user-attachments/assets/e8d1af54-d4c8-4ec2-81a6-8468dd4a988c" />
+<img width="1536" height="1024" alt="ChatGPT Image 19 May 2026 18_08_57" src="https://github.com/user-attachments/assets/534a5cd4-14b0-40b0-aba9-be75e6b3e22f" />
 
 ---
 
