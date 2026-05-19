@@ -20,10 +20,6 @@ SPA OmniCore OS
 </p>
 
 <p align="center">
-<i>"Veriyi sadece görüntüleme çağı bitti. Karar alma ve otonom uygulama çağı başlıyor."</i>
-</p>
-
-<p align="center">
 <i>"Fabrikanın üretim bandındaki o kusursuz titizliği aldık ve e-ticareti tam anlamıyla bir "E-Ticaret 4.0 Otomasyon ve Karar Destek Sistemine" dönüştürdük."</i>
 </p>
 
