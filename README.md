@@ -145,8 +145,6 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
 | **Validasyon** | Pydantic (Strict Schema) | Halüsinasyon koruması, tip güvenliği |
 | **Optimizasyon** | NumPy + SciPy | Matematiksel modeller için endüstri standardı |
 
-
-
 ---
 
 ## ⚙️ Kurulum ve Çalıştırma
@@ -156,15 +154,25 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
     git clone [https://github.com/TEAM-EXCEL/spa-autocommerce-os.git](https://github.com/TEAM-EXCEL/spa-autocommerce-os.git)
     cd spa-autocommerce-os
     ```
+
 2.  **Gerekli Bağımlılıkları Yükleyin:**
     ```bash
     pip install -r requirements.txt
     ```
+
 3.  **Ortam Değişkenlerini Yapılandırın:**
-    `""` klasöründe bir `.env` dosyası oluşturun ve Gemini API anahtarınızı tanımlayın:
+    `.env.example` dosyasını kopyalayarak `.env` adında yeni bir dosya oluşturun:
+    ```bash
+    # Windows (CMD):
+    copy .env.example .env
+    
+    # Veya manuel olarak dosyayı kopyalayıp adını .env yapın.
+    ```
+    Ardından oluşturduğunuz `.env` dosyasını bir metin editörü ile açıp Gemini API anahtarınızı tanımlayın:
     ```env
     GEMINI_API_KEY=your_google_gemini_api_key_here
     ```
+
 4.  **Uygulamayı Başlatın:**
     ```bash
     python main_gui.py
