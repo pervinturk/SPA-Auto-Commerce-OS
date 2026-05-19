@@ -62,6 +62,50 @@ SPA OmniCore OS, statik veri raporlaması yapan geleneksel panelleri devre dış
 
 ## 🌟 Çekirdek Mimari ve Ajan Yapıları
 <img width="1536" height="1024" alt="ChatGPT Image 19 May 2026 18_08_57" src="https://github.com/user-attachments/assets/534a5cd4-14b0-40b0-aba9-be75e6b3e22f" />
+---
+
+## ✨ Özellikler
+
+### 🧠 AI / Otomasyon
+- **Akıl Hocası** — Gemini Function Calling tabanlı otonom asistan; onayınızla DB üzerinde değişiklik yapar
+- **Gemini Vision** ürün yükleme — Fotoğraf yükle, AI başlık/kategori/fiyat/öznitelikleri doldursun
+- **9-key havuzu** + 429 cooldown rotation (Google AI Studio free-tier desteği)
+- **Hybrid SLM/Cloud Router** — llama.cpp + Gemini arasında latency/confidence/maliyet bazlı yönlendirme
+
+### 📊 Endüstri Mühendisliği Motorları
+- **Wagner-Whitin** Dynamic Programming lot-sizing (brute-force ile doğrulanmış optimal)
+- **TOPSIS** çoklu-kriter taşıyıcı seçimi (5 kriter, vektör normalizasyon)
+- **Parametric VaR + Expected Shortfall** Brownian motion bazlı (Acklam inverse-CDF, 6-digit precision)
+- **Sharpe-ROT portföy** optimizasyonu (inverse-variance weights)
+- **Heuristic Miner** dependency D_AB + Damerau-Levenshtein süreç sapma analizi
+- **Pareto/ABC ranking** önem skoru bazlı ürün sıralama
+
+### 🛡️ IP / Compliance
+- **pHash 64-bit DCT** + Hamming distance görsel benzerlik kopyacı tespiti
+- **TF-IDF cosine** marka adı eşleşme (typo-tolerant Damerau-Levenshtein)
+- **Andon** IoT sensör + BOM compliance kararı (cold-chain / shock / humidity)
+
+### 🛒 Marketplace Entegrasyonu
+- **Trendyol** canlı API: ürün, sipariş, hakediş, iade, yorum, soru senkronizasyonu
+- **Hepsiburada / Amazon / N11 / Etsy** credentials desteği (genişletilebilir altyapı)
+- 556 / 401 / 403 hatalarına graceful handle
+- Çoklu endpoint probe ile bağlantı doğrulama
+
+### 💼 İş Modülleri
+- **ADR** (Alternative Dispute Resolution) — REFUND/REPLACE/PARTIAL/REJECT/ESCALATE/GOODWILL karar matrisi, beklenen-maliyet minimizasyonu
+- **Tedarikçi Sağlık Karnesi** — zamanlılık + defekt + lead-time skorlama
+- **What-If Heatmap** — fiyat × reklam-bütçe profit simülasyonu
+- **Akıllı Panel (Operations Center)** — tüm motorları tek ekranda
+
+### 🎨 UX
+- **Dark glassmorphism tema** — Discord-vari sıkı sidebar, Inter font
+- **Akıcı animasyonlar** — hover fade, count-up, slide-in
+- **Etkileşimli grafikler** — Matplotlib hover tooltips
+- **TR + EN** çoklu dil, **TRY + USD** canlı kur dönüşümü
+- **Excel-vari tablolar** — sıralanabilir, filtrelenebilir, CSV export
+
+---
+
 
 ### 🤖 ReAct Agent — Akıl Hocası & Human-in-the-Loop
 Sistemin merkezinde **ReAct (Reasoning + Acting)** döngüsü koşturan otonom bir akıl hocası bulunur. Doğal dildeki kullanıcı taleplerini ya da sistem alarmlarını analiz ederek arka plandaki SQL araçlarını ve Yöneylem çözücülerini tetikler. Fiyat güncelleme, tedarik emri açma veya kargo birleştirme gibi kritik operasyonel eylemlerde **Human-in-the-Loop** prensibini işleterek kullanıcıdan tek tıkla onay alır ve döngüyü kapatır.
