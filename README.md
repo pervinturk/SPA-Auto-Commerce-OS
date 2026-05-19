@@ -55,6 +55,8 @@ Finansal kararlarda yapay zeka hatasını sıfıra indiren 3 katmanlı güvenlik
 <img width="2400" height="1350" alt="6_Hallucination-Safety-Layer-Guvenilir-AI" src="https://github.com/user-attachments/assets/1a3e9ffc-33c6-41b9-9130-1a847ba353cc" />
 
 ### 📊 Endüstri Mühendisliği & Lojistik Optimizasyon
+<img width="2400" height="1350" alt="5_Endustri-Muhendisligi-ve-Lojistik-Optimizasyon" src="https://github.com/user-attachments/assets/6cfe05af-aa1b-4948-9a88-9edefc6099de" />
+
 | Algoritma | Kullanım Alanı |
 |-----------|---------------|
 | **Wagner-Whitin** | Dinamik parti büyüklüğü optimizasyonu |
@@ -66,7 +68,6 @@ Finansal kararlarda yapay zeka hatasını sıfıra indiren 3 katmanlı güvenlik
 
 > `ROP = Günlük Talep × Tedarik Süresi + Emniyet Stoğu`  
 > `EOQ = √(2DS / H)`
-<img width="2400" height="1350" alt="5_Endustri-Muhendisligi-ve-Lojistik-Optimizasyon" src="https://github.com/user-attachments/assets/6cfe05af-aa1b-4948-9a88-9edefc6099de" />
 
 ### 👁 Vision AI — Otonom Veri Girişi
 - Ürün fotoğrafından Gemini multimodal ile SEO açıklaması üretimi
