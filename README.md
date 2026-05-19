@@ -74,10 +74,16 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
 
 ## 🛠 Teknoloji Yığını (Tech Stack)
 
-* **Yapay Zeka Çekirdeği:** Google Gemini API (1.5 Flash), Function Calling Mimari, ReAct Pattern
-* **Arayüz Katmanı (GUI):** CustomTkinter (Düşük gecikmeli yerel masaüstü OS deneyimi), Matplotlib
-* **Veritabanı & Eşzamanlılık:** SQLAlchemy Async (Asenkron ORM), SQLite (WAL Mode - Yüksek okuma/yazma performansı)
-* **Doğrulama & Matematik:** Pydantic (Strict Validation), NumPy, Pandas, PIL
+| Katman | Teknoloji | Neden Seçildi |
+|--------|-----------|---------------|
+| **AI/LLM** | Google Gemini 1.5 Flash | Hız, maliyet etkinliği, multimodal destek |
+| **Agentic** | ReAct pattern + Function Calling | Deterministik + LLM hibrit kontrol |
+| **UI** | CustomTkinter + Matplotlib | Düşük gecikme, masaüstü OS hissi |
+| **DB** | SQLite (WAL Mode) + SQLAlchemy Async | Yüksek eşzamanlılık, yerel güvenlik |
+| **Validasyon** | Pydantic (Strict Schema) | Halüsinasyon koruması, tip güvenliği |
+| **Optimizasyon** | NumPy + SciPy | Matematiksel modeller için endüstri standardı |
+
+
 
 ---
 
