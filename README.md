@@ -6,7 +6,8 @@
 
 **SPA (Smart Platform Automation) OmniCore OS**, e-ticaret işletmelerinin finansal, lojistik ve operasyonel süreçlerini **Google Gemini 1.5 Flash** altyapısı ve gelişmiş **Endüstri Mühendisliği (Yöneylem Araştırması)** algoritmaları ile uçtan uca otonomlaştıran, masaüstü tabanlı kurumsal bir **Karar Destek Sistemidir (DSS)**.
 
-BTK Akademi × Google × Girvak Hackathon 2026 — **TEAM EXCEL** *Geliştiriciler: Pervin Türk · Arhan Ünallı*
+BTK Akademi × Google × Girvak Hackathon 2026 — **TEAM EXCEL**
+*Geliştiriciler: Pervin Türk · Arhan Ünallı*
 
 ---
 
