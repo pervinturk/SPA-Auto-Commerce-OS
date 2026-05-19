@@ -1,10 +1,10 @@
 <h1 align="center">
-🚀 SPA OmniCore OS
+SPA OmniCore OS
 </h1>
 
-<p align="center">
+<h2 align="center">
   Autonomous E-Commerce Operating System
-</p>
+</h2>
 
 <p align="center">
 
@@ -22,12 +22,6 @@
 <p align="center">
 <i>"Veriyi sadece görüntüleme çağı bitti. Karar alma ve otonom uygulama çağı başlıyor."</i>
 </p>
-
-# SPA OmniCore OS: Autonomous E-Commerce Operating System
-
-<img width="2400" height="1350" alt="1_SPA-Center" src="https://github.com/user-attachments/assets/d6907fe7-2969-4dec-b344-4588bcdd486b" />
-
-> *"Veriyi sadece görüntüleme çağı bitti. Karar alma ve otonom uygulama çağı başlıyor."*
 
 **SPA (Smart Platform Automation) OmniCore OS**, e-ticaret işletmelerinin finansal, lojistik ve operasyonel süreçlerini **Google Gemini 1.5 Flash** altyapısı ve gelişmiş **Endüstri Mühendisliği (Yöneylem Araştırması)** algoritmaları ile uçtan uca otonomlaştıran, masaüstü tabanlı kurumsal bir **Karar Destek Sistemidir (DSS)**.
 
