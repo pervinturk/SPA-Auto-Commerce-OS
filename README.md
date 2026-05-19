@@ -70,6 +70,14 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
 
 <img width="2400" height="1350" alt="8_Finansal-Fizibilite-ROI-and-NPV-Analizi" src="https://github.com/user-attachments/assets/a84b94b2-c64d-42ac-8da9-0f54dd7767b8" />
 
+### 🔗 E-ticaret API Entegrasyonu
+- Gerçek zamanlı sipariş ve ürün senkronizasyonu
+- Hata toleranslı retry mekanizması (556 HTTP)
+- Canlı hakediş ve fiyat güncelleme
+
+<img width="1376" height="768" alt="1 (18)" src="https://github.com/user-attachments/assets/cffa448d-a68c-4490-b18e-38366519ff28" />
+
+
 ---
 
 ## 🛠 Teknoloji Yığını (Tech Stack)
