@@ -37,8 +37,10 @@ SPA OmniCore OS, statik veri raporlaması yapan geleneksel panelleri devre dış
 ### 🤖 ReAct Agent — Akıl Hocası & Human-in-the-Loop
 Sistemin merkezinde **ReAct (Reasoning + Acting)** döngüsü koşturan otonom bir akıl hocası bulunur. Doğal dildeki kullanıcı taleplerini ya da sistem alarmlarını analiz ederek arka plandaki SQL araçlarını ve Yöneylem çözücülerini tetikler. Fiyat güncelleme, tedarik emri açma veya kargo birleştirme gibi kritik operasyonel eylemlerde **Human-in-the-Loop** prensibini işleterek kullanıcıdan tek tıkla onay alır ve döngüyü kapatır.
 
+<p align="center">
 <img width="2400" height="1350" alt="4_Agentic-AI-Mimarisi-Akil-Hocasi" src="https://github.com/user-attachments/assets/d81a5b6b-518c-43e5-9fe0-a2f4fbd0ae11" />
 <img width="429" height="569" alt="Ekran görüntüsü 2026-05-19 160714" src="https://github.com/user-attachments/assets/bc132d50-efb4-4292-b727-4ce3b63c28a0" />
+</p>
 
 ### 🛡 Üç Katmanlı Halüsinasyon Güvenlik Duvarı (Safety Layer)
 Finansal ve operasyonel hataları sıfıra indirmek amacıyla, LLM çıktılarının doğrudan sisteme etki etmesi yazılımsal olarak engellenmiştir:
