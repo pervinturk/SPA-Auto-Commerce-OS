@@ -1,4 +1,4 @@
-# 🚀 SPA OmniCore OS: Autonomous E-Commerce Operating System
+# SPA OmniCore OS: Autonomous E-Commerce Operating System
 
 <img width="2400" height="1350" alt="1_SPA-Center" src="https://github.com/user-attachments/assets/d6907fe7-2969-4dec-b344-4588bcdd486b" />
 
