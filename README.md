@@ -175,7 +175,7 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
 
 4.  **Uygulamayı Başlatın:**
     ```bash
-    python main_gui.py
+    python main.py
     ```
 ---
 
