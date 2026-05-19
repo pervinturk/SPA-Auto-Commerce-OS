@@ -66,6 +66,7 @@ $$\text{EOQ} = \sqrt{\frac{2DS}{H}} \quad , \quad \text{ROP} = (\text{Daily Dema
 `smart_add.py` modülü, satıcının sadece bir ürün görseli yüklemesiyle pazar yerinin katı kurallarını ve özellik şablonlarını (CSV kısıt matrislerini) arka planda Gemini Vision bağlamına enjekte eder. Görselden otonom olarak SEO uyumlu başlık, açıklama ve teknik nitelik şeması (Payload) üretilerek manuel veri girişi süresi **%90 oranında azaltılır**.
 
 <img width="2400" height="1350" alt="7_Vision-AI-ile-Otonom-Veri-Girisi" src="https://github.com/user-attachments/assets/1f6d4b2d-220e-442f-bf18-ee01ba38bd92" />
+<img width="1919" height="1030" alt="Ekran görüntüsü 2026-05dasd714" src="https://github.com/user-attachments/assets/d7f43e0f-1269-49f9-badb-efe557a7005f" />
 
 ### 💹 Finansal Mühendislik ve Karar Fizibilitesi
 Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinamik NPV (Net Bugünün Değeri) ve ROI simülasyonları koşturur. What-If esneklik modelleriyle fiyat değişimlerinin kârlılık üzerindeki etkilerini görselleştirir.
