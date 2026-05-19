@@ -62,16 +62,12 @@ SPA OmniCore OS, statik veri raporlaması yapan geleneksel panelleri devre dış
 
 ## 🌟 Çekirdek Mimari ve Ajan Yapıları
 <img width="1536" height="1024" alt="ChatGPT Image 19 May 2026 18_08_57" src="https://github.com/user-attachments/assets/534a5cd4-14b0-40b0-aba9-be75e6b3e22f" />
-
-## 🌟 Yetenekler ve Özellikler
-
 SPA OmniCore OS, e-ticaret süreçlerini tek bir merkezden yönetmeniz için kapsamlı bir modüler yapı sunar:
 
-| Kategori | Temel Yetenekler |
 | :--- | :--- |
 | **🤖 AI & Otomasyon** | Gemini Function Calling (Akıl Hocası), Vision tabanlı ürün yükleme, Hybrid SLM/Cloud Router, 9-key API rotasyonu. |
-| **⚙️ Endüstri Müh.** | Wagner-Whitin (lot-sizing), TOPSIS (kargo seçimi), Parametric VaR (risk analizi), Pareto/ABC ranking, Heuristic Miner. |
 | **🛡️ IP & Compliance** | pHash (kopya tespit), Damerau-Levenshtein (typo-tolerant eşleşme), Andon (IoT/BOM uyumluluk). |
+| **⚙️ Endüstri Müh.** | Wagner-Whitin (lot-sizing), TOPSIS (kargo seçimi), Parametric VaR (risk analizi), Pareto/ABC ranking, Heuristic Miner. |
 | **🛒 Marketplace** | Trendyol (Canlı API), Hepsiburada/Amazon/N11/Etsy genişletilebilir entegrasyon, hata toleranslı retry mekanizması. |
 | **💼 İş Modülleri** | ADR (Anlaşmazlık Çözümü), Tedarikçi Sağlık Karnesi, What-If profit simülasyonu, birleşik operasyonel dashboard. |
 | **🎨 UX / Arayüz** | Dark glassmorphism tema, etkileşimli Matplotlib grafikler, çoklu dil (TR/EN) ve kur desteği (TRY/USD). |
