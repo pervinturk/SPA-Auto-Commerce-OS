@@ -3,6 +3,7 @@
 > *"Veriyi görüntüleme çağı bitti. Karar alma çağı başlıyor."*
 
 **SPA (Smart Platform Automation) Auto-Commerce OS**, e-ticaret satıcılarının finansal, lojistik ve operasyonel süreçlerini **Üretken Yapay Zeka (Gemini 1.5 Flash)** ve **Endüstri Mühendisliği** algoritmaları ile otonomlaştıran masaüstü tabanlı bir **Karar Destek Sistemi (DSS)**'dir.
+
 <img width="1536" height="1024" alt="ChatGPT Image 19 May 2026 18_08_57" src="https://github.com/user-attachments/assets/534a5cd4-14b0-40b0-aba9-be75e6b3e22f" />
 
 
