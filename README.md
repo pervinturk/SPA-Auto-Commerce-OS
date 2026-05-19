@@ -173,6 +173,7 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
 
 
 ### .exe Derleme
+**Masaüstü uygulaması** — CustomTkinter ile yazılmış, PyInstaller ile `.exe`'ye derlenebilir. Tüm hassas veriler (API anahtarları, müşteri bilgileri) **lokal SQLite + XOR şifreleme** ile bilgisayarınızda kalır.
 ```bash
 python build.py
 # dist/SPA_Center.exe oluşur
