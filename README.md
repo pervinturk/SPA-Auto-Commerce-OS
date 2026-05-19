@@ -62,9 +62,9 @@ Sistemin merkezinde **ReAct (Reasoning + Acting)** döngüsü koşturan otonom b
 <img width="429" height="569" alt="Ekran görüntüsü 2026-05-19 160714" src="https://github.com/user-attachments/assets/bc132d50-efb4-4292-b727-4ce3b63c28a0" />
 </p>
 
-<h3 align="center">
-  Yapay zeka destekli asistan: Akıl Hocası
-</h3>
+<p align="center">
+<i>"Yapay zeka destekli asistanımız: Akıl Hocası"</i>
+</p>
 
 
 ### 🛡 Üç Katmanlı Halüsinasyon Güvenlik Duvarı (Safety Layer)
