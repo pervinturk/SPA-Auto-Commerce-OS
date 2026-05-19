@@ -1,4 +1,4 @@
-# ⚡ SPA Auto-Commerce OS — E-Ticaretin Otonom İşletim Sistemi
+<img width="1376" height="768" alt="1 (18)" src="https://github.com/user-attachments/assets/f7e66b59-c42c-48c0-b64b-f03947029c1f" /># ⚡ SPA Auto-Commerce OS — E-Ticaretin Otonom İşletim Sistemi
 > *"Veriyi görüntüleme çağı bitti. Karar alma çağı başlıyor."*
 **SPA (Smart Platform Automation) Auto-Commerce OS**, e-ticaret 
 satıcılarının finansal, lojistik ve operasyonel süreçlerini 
@@ -81,10 +81,11 @@ Finansal kararlarda yapay zeka hatasını sıfıra indiren 3 katmanlı güvenlik
 - 18 aylık pozitif nakit akışı projeksiyonu
 <img width="2400" height="1350" alt="8_Finansal-Fizibilite-ROI-and-NPV-Analizi" src="https://github.com/user-attachments/assets/a84b94b2-c64d-42ac-8da9-0f54dd7767b8" />
 
-### 🔗 Trendyol API Entegrasyonu
+### 🔗 E-ticaret API Entegrasyonu
 - Gerçek zamanlı sipariş ve ürün senkronizasyonu
 - Hata toleranslı retry mekanizması (556 HTTP)
 - Canlı hakediş ve fiyat güncelleme
+<img width="1376" height="768" alt="1 (18)" src="https://github.com/user-attachments/assets/cffa448d-a68c-4490-b18e-38366519ff28" />
 
 ---
 <img width="2400" height="1350" alt="9_Gelecek-Vizyonu-Olceklenebilirlik-ve-Surdurulebilirlik" src="https://github.com/user-attachments/assets/81a3333c-5b50-4630-baaa-0c47e48023a8" />
