@@ -36,9 +36,7 @@ SPA OmniCore OS
 
 </div>
 
-BTK Akademi Hackathon 2026
-— **TEAM EXCEL**
-*Pervin Türk · Arhan Ünallı*
+BTK Akademi Hackathon 2026— **TEAM EXCEL** *Pervin Türk · Arhan Ünallı*
 
 ---
 
