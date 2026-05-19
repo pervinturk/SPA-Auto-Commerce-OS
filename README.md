@@ -62,6 +62,8 @@ SPA OmniCore OS, statik veri raporlaması yapan geleneksel panelleri devre dış
 
 ## 🌟 Çekirdek Mimari ve Ajan Yapıları
 <img width="1536" height="1024" alt="ChatGPT Image 19 May 2026 18_08_57" src="https://github.com/user-attachments/assets/534a5cd4-14b0-40b0-aba9-be75e6b3e22f" />
+> AI destekli, çoklu-pazar yeri (Trendyol, Hepsiburada, Amazon, N11, Etsy) satıcı yönetim sistemi. Endüstri Mühendisliği temelli envanter optimizasyonu, finansal risk analizi, IP koruma, otonom AI ürün yükleme.
+
 SPA OmniCore OS, e-ticaret süreçlerini tek bir merkezden yönetmeniz için kapsamlı bir modüler yapı sunar:
 
 | Kategori | Temel Yetenekler |
