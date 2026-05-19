@@ -171,14 +171,16 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
     ```
 ---
 
+### 📦 .exe Derleme
+Uygulamayı tek bir çalıştırılabilir dosya haline getirmek için **PyInstaller** konfigürasyonunu kullanabilirsiniz. Tüm hassas verileriniz (API anahtarları, müşteri bilgileri), yerel SQLite veritabanınızda **XOR şifreleme** ile korunarak bilgisayarınızda güvende kalır.
 
-### .exe Derleme
-**Masaüstü uygulaması** — CustomTkinter ile yazılmış, PyInstaller ile `.exe`'ye derlenebilir. Tüm hassas veriler (API anahtarları, müşteri bilgileri) **lokal SQLite + XOR şifreleme** ile bilgisayarınızda kalır.
 ```bash
+# Projeyi derlemek için:
 python build.py
-# dist/SPA_Center.exe oluşur
->>>>>>> 492b1d1 (Initial commit - SPA Center)
-```
+
+# Derlenen dosya şu klasörde oluşacaktır:
+dist/SPA_Center.exe
+
 ---
 
 ### 🧪 Test Süreci (Test-Driven Development)
