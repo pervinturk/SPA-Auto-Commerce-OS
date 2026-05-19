@@ -101,6 +101,7 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
     ```bash
     python main_gui.py
     ```
+---
 
 ### 🧪 Test Süreci (Test-Driven Development)
 Sistemdeki optimizasyon çözücülerinin matematiksel doğruluğu, `tests/` klasöründeki 9 fazlı asenkron test senaryolarıyla stres testine tabi tutulmuştur. Testleri çalıştırmak için:
