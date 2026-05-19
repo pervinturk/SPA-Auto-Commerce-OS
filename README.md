@@ -89,6 +89,7 @@ Finansal kararlarda yapay zeka hatasını sıfıra indiren 3 katmanlı güvenlik
 ## 🌱➡️🌳 Gelecek Vizyonu
 
 <img width="2400" height="1350" alt="9_Gelecek-Vizyonu-Olceklenebilirlik-ve-Surdurulebilirlik" src="https://github.com/user-attachments/assets/81a3333c-5b50-4630-baaa-0c47e48023a8" />
+
 ---
 
 ## 🛠 Teknoloji Yığını
