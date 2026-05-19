@@ -64,6 +64,7 @@ SPA OmniCore OS, statik veri raporlaması yapan geleneksel panelleri devre dış
 <img width="1536" height="1024" alt="ChatGPT Image 19 May 2026 18_08_57" src="https://github.com/user-attachments/assets/534a5cd4-14b0-40b0-aba9-be75e6b3e22f" />
 SPA OmniCore OS, e-ticaret süreçlerini tek bir merkezden yönetmeniz için kapsamlı bir modüler yapı sunar:
 
+| Kategori | Temel Yetenekler |
 | :--- | :--- |
 | **🤖 AI & Otomasyon** | Gemini Function Calling (Akıl Hocası), Vision tabanlı ürün yükleme, Hybrid SLM/Cloud Router, 9-key API rotasyonu. |
 | **🛡️ IP & Compliance** | pHash (kopya tespit), Damerau-Levenshtein (typo-tolerant eşleşme), Andon (IoT/BOM uyumluluk). |
