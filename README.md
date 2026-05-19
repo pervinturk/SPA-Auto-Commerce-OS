@@ -106,6 +106,7 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
 Sistemdeki optimizasyon çözücülerinin matematiksel doğruluğu, `tests/` klasöründeki 9 fazlı asenkron test senaryolarıyla stres testine tabi tutulmuştur. Testleri çalıştırmak için:
 ```bash
 python -m pytest tests/ -v
+```
 
 ---
 
