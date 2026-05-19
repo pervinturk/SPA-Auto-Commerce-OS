@@ -73,6 +73,7 @@ SPA OmniCore OS, e-ticaret süreçlerini tek bir merkezden yönetmeniz için kap
 | **💼 İş Modülleri** | ADR (Anlaşmazlık Çözümü), Tedarikçi Sağlık Karnesi, What-If profit simülasyonu, birleşik operasyonel dashboard. |
 | **🎨 UX / Arayüz** | Dark glassmorphism tema, etkileşimli Matplotlib grafikler, çoklu dil (TR/EN) ve kur desteği (TRY/USD). |
 
+---
 
 ### 🤖 ReAct Agent — Akıl Hocası & Human-in-the-Loop
 Sistemin merkezinde **ReAct (Reasoning + Acting)** döngüsü koşturan otonom bir akıl hocası bulunur. Doğal dildeki kullanıcı taleplerini ya da sistem alarmlarını analiz ederek arka plandaki SQL araçlarını ve Yöneylem çözücülerini tetikler. Fiyat güncelleme, tedarik emri açma veya kargo birleştirme gibi kritik operasyonel eylemlerde **Human-in-the-Loop** prensibini işleterek kullanıcıdan tek tıkla onay alır ve döngüyü kapatır.
