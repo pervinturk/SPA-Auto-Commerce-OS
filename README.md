@@ -31,6 +31,7 @@ SPA OmniCore OS, statik veri raporlaması yapan geleneksel panelleri devre dış
 ---
 
 ## 🌟 Çekirdek Mimari ve Ajan Yapıları
+<img width="1536" height="1024" alt="ChatGPT Image 19 May 2026 18_08_57" src="https://github.com/user-attachments/assets/534a5cd4-14b0-40b0-aba9-be75e6b3e22f" />
 
 ### 🤖 ReAct Agent — Akıl Hocası & Human-in-the-Loop
 Sistemin merkezinde **ReAct (Reasoning + Acting)** döngüsü koşturan otonom bir akıl hocası bulunur. Doğal dildeki kullanıcı taleplerini ya da sistem alarmlarını analiz ederek arka plandaki SQL araçlarını ve Yöneylem çözücülerini tetikler. Fiyat güncelleme, tedarik emri açma veya kargo birleştirme gibi kritik operasyonel eylemlerde **Human-in-the-Loop** prensibini işleterek kullanıcıdan tek tıkla onay alır ve döngüyü kapatır.
