@@ -2,9 +2,9 @@
 SPA OmniCore OS
 </h1>
 
-<h2 align="center">
+<h3 align="center">
   Autonomous E-Commerce Operating System
-</h2>
+</h3>
 
 <p align="center">
 
