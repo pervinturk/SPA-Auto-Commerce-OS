@@ -180,7 +180,7 @@ python build.py
 
 # Derlenen dosya şu klasörde oluşacaktır:
 dist/SPA_Center.exe
-
+```
 ---
 
 ### 🧪 Test Süreci (Test-Driven Development)
