@@ -27,11 +27,14 @@ SPA OmniCore OS
 
 
 ## 🎬 Proje Tanıtım Videosu
-<p align="center">
+
+<div align="center">
+
 [![SPA OmniCore OS Tanıtım Videosu](https://img.youtube.com/vi/O-n5ni7VQzQ/0.jpg)](https://youtu.be/O-n5ni7VQzQ)
 
 *(Resmin üzerine tıklayarak videoyu izleyebilirsiniz.)*
-</p>
+
+</div>
 
 BTK Akademi Hackathon 2026 — **TEAM EXCEL**
 
