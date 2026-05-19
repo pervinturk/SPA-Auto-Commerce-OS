@@ -23,7 +23,7 @@ SPA OmniCore OS
 <i>"Fabrikanın üretim bandındaki o kusursuz titizliği aldık ve e-ticareti tam anlamıyla bir "E-Ticaret 4.0 Otomasyon ve Karar Destek Sistemine" dönüştürdük."</i>
 </p>
 
-**SPA (Smart Platform Automation) OmniCore OS**, e-ticaret işletmelerinin finansal, lojistik ve operasyonel süreçlerini **Google Gemini 1.5 Flash** altyapısı ve gelişmiş **Endüstri Mühendisliği (Yöneylem Araştırması)** algoritmaları ile uçtan uca otonomlaştıran, masaüstü tabanlı kurumsal bir **Karar Destek Sistemidir (DSS)**.
+**SPA (Smart Platform Automation) OmniCore OS**, e-ticaret işletmelerinin finansal, lojistik ve operasyonel süreçlerini **Google Gemini 1.5 Flash** altyapısı ve gelişmiş **Endüstri Mühendisliği** algoritmaları ile uçtan uca otonomlaştıran, masaüstü tabanlı kurumsal bir **yapay zeka tabanlı Karar Destek Sistemidir (DSS)**.
 
 
 ## 🎬 Proje Tanıtım Videosu
@@ -36,9 +36,9 @@ SPA OmniCore OS
 
 </div>
 
-BTK Akademi Hackathon 2026 — **TEAM EXCEL**
-
-*Geliştiriciler: Pervin Türk · Arhan Ünallı*
+BTK Akademi Hackathon 2026
+— **TEAM EXCEL**
+*Pervin Türk · Arhan Ünallı*
 
 ---
 
