@@ -171,6 +171,14 @@ Sistem, pazar yerlerinden çekilen canlı hakediş ve maliyet verileriyle dinami
     ```
 ---
 
+
+### .exe Derleme
+```bash
+python build.py
+# dist/SPA_Center.exe oluşur
+>>>>>>> 492b1d1 (Initial commit - SPA Center)
+```
+
 ### 🧪 Test Süreci (Test-Driven Development)
 Sistemdeki optimizasyon çözücülerinin matematiksel doğruluğu, `tests/` klasöründeki 9 fazlı asenkron test senaryolarıyla stres testine tabi tutulmuştur. Testleri çalıştırmak için:
 ```bash
