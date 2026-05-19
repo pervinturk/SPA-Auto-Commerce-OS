@@ -138,10 +138,6 @@ python -m pytest tests/ -v
 ---
 
 ## 👥 TEAM EXCEL
-| Üye | Rol |
-|-----|-----|
-| **Pervin Türk** | Lead AI Mühendisi — Agentic mimari, Gemini entegrasyonu, Hallucination Safety Layer |
-| **Arhan Ünallı** | UI/UX & Analiz Lideri — Dashboard, finansal modelleme, API veri akışı |
 
 <img width="2400" height="1350" alt="10_Tesekkurler" src="https://github.com/user-attachments/assets/5acaf709-3111-4fd8-b656-a01c72b3cf10" />
 
