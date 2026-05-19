@@ -144,3 +144,85 @@ python -m pytest tests/ -v
 ---
 
 *BTK Akademi × Google × Girvak — Hackathon 2026*
+=======
+## 🗂️ Proje Yapısı
+
+```
+spa-center/
+├── main.py                    # Uygulama giriş noktası
+├── build.py                   # PyInstaller derleme scripti
+├── requirements.txt           # Python bağımlılıkları
+├── .env.example               # Ortam değişkenleri şablonu
+│
+├── core/                      # Çekirdek mimari
+│   ├── database.py            # SQLite sync layer
+│   ├── database_async.py      # SQLAlchemy 2.0 async (OmniCore)
+│   ├── schemas.py             # Pydantic v2 contracts
+│   ├── credentials.py         # XOR-şifreli multi-platform creds
+│   ├── data_mode.py           # LIVE/MOCK mode + inventory clear
+│   ├── api_key_pool.py        # 9-key Gemini rotation
+│   ├── hybrid_gateway.py      # SLM/Cloud adaptive router
+│   ├── ai_engine.py           # Akıl Hocası agent (function calling)
+│   ├── ai_vision_agent.py     # Gemini Vision + Pydantic + RAG
+│   ├── trendyol_api.py        # Trendyol REST client
+│   ├── trendyol_sync.py       # Toplu Trendyol senkronizasyonu
+│   ├── analytics.py           # Pareto, MRP, supplier health, what-if
+│   └── mock_data.py           # Demo/fallback data
+│
+├── engines/                   # Saf matematik (endüstri müh.)
+│   ├── ww_dp_solver.py        # Wagner-Whitin DP + Silver-Meal + LFL + EOQ
+│   ├── financial_engineering.py  # ROT, Sharpe-ROT, VaR, ES, portfolio
+│   └── ip_shield.py           # pHash + TF-IDF + Damerau-Levenshtein
+│
+├── services/                  # İş servisleri
+│   ├── shipment_auditor.py    # IoT sensor + BOM + Andon
+│   ├── adr_engine.py          # ADR karar matrisi
+│   ├── process_mining.py      # Heuristic Miner D_AB
+│   └── carrier_selection.py   # TOPSIS
+│
+└── ui/                        # CustomTkinter masaüstü UI
+    ├── main_window.py
+    ├── theme.py
+    ├── widgets.py             # KPICard, Pill, SortableTable, ChartHover, ...
+    ├── animations.py          # fade_color, count_up, slide_in
+    ├── lock_screen.py         # Integration lock card
+    ├── credentials_dialog.py  # Per-platform API creds form
+    ├── omnicore_dashboard.py  # Akıllı Panel (tüm motorlar)
+    ├── smart_add.py           # Trendyol Smart Add (Vision)
+    ├── agent_widget.py        # Floating Akıl Hocası FAB
+    └── pages/
+        ├── dashboard.py
+        ├── inventory.py
+        ├── orders.py
+        ├── finance.py
+        ├── advisor.py
+        ├── marketplaces.py
+        └── profile.py
+```
+
+---
+
+## 🔐 Güvenlik
+
+- API anahtarları **asla** repo'ya commit edilmez (`.gitignore` korumalı)
+- Tüm credentials lokal `eaas.db` içinde **XOR-encoded** + base64 wrapped
+- Hiçbir veri 3. parti sunucuya gitmez — sadece Gemini ve marketplace API'leri (kendi keylerinizle)
+- Pre-commit: secret scanning için [`gitleaks`](https://github.com/zricethezav/gitleaks) önerilir
+
+---
+
+## 📜 Lisans
+
+MIT — [LICENSE](LICENSE) dosyasına bakın.
+
+---
+
+## 🤝 Katkı
+
+Pull request'lere açığız. Lütfen:
+1. Feature branch açın: `feat/yeni-ozellik`
+2. Test ekleyin (özellikle `engines/` ve `services/` için)
+3. `python -m py_compile $(find . -name "*.py")` ile syntax kontrolü
+4. PR açın
+
+---
