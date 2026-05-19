@@ -211,7 +211,7 @@ python -m pytest tests/ -v
 
 ---
 ## 👥 TEAM EXCEL
-
+*Takım profilimizi ve teknik yetkinlik detaylarımızı incelemek için:* [**TEAM EXCEL Profilini Görüntüle (PDF)**](TEAM_EXCEL_Profile.pdf)
 <img width="2400" height="1350" alt="10_Tesekkurler" src="https://github.com/user-attachments/assets/5acaf709-3111-4fd8-b656-a01c72b3cf10" />
 
 ---
