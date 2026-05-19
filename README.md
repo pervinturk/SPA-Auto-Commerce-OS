@@ -66,6 +66,7 @@ Sistemin merkezinde **ReAct (Reasoning + Acting)** döngüsü koşturan otonom b
   Yapay zeka destekli asistan: Akıl Hocası
 </h3>
 
+
 ### 🛡 Üç Katmanlı Halüsinasyon Güvenlik Duvarı (Safety Layer)
 Finansal ve operasyonel hataları sıfıra indirmek amacıyla, LLM çıktılarının doğrudan sisteme etki etmesi yazılımsal olarak engellenmiştir:
 1. **Üretim Fazı (AI Propose):** Gemini 1.5 Flash ham karar veya payload taslağını üretir.
