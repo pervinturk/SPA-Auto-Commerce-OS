@@ -1,3 +1,28 @@
+<h1 align="center">
+🚀 SPA OmniCore OS
+</h1>
+
+<p align="center">
+Autonomous E-Commerce Operating System
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![AI](https://img.shields.io/badge/AI-Gemini%201.5%20Flash-orange)
+
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6907fe7-2969-4dec-b344-4588bcdd486b" width="1000">
+</p>
+
+<p align="center">
+<i>"Veriyi sadece görüntüleme çağı bitti. Karar alma ve otonom uygulama çağı başlıyor."</i>
+</p>
+
 # SPA OmniCore OS: Autonomous E-Commerce Operating System
 
 <img width="2400" height="1350" alt="1_SPA-Center" src="https://github.com/user-attachments/assets/d6907fe7-2969-4dec-b344-4588bcdd486b" />
